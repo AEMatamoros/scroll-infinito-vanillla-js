@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.galleryContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  width: 1400px;
+  margin: 0 auto;
+  padding: 16px;
+}
